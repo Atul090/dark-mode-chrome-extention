@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Dark Mode",
+    "icons": {
+        "32": " // icon image"
+    },
+    "version": "1.0.0",
+    "background":{
+        "service_worker": "service_worker.js",
+        "type": "module"
+    }
+}
