@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Dark Mode",
     "icons": {
-        "32": "icon.jpg"
+        "32": "icon32.jpg"
     },
     "version": "1.0.0",
     "background":{

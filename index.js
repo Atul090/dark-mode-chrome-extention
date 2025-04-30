@@ -6,7 +6,7 @@ async function sayHello() {
         func: ()=>{
             alert("hello from my side ")
         }
-    })
+    });
 }
 
 document.getElementById("myButton").addEventListener("click", sayHello);
